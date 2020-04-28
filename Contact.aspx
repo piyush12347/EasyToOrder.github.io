@@ -1,0 +1,10 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/User.master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <div>
+    <h1>FOR ANY QUERY PLEASE CALL THIS NUMBER:7903526919</h1>
+        </div>
+</asp:Content>
+
